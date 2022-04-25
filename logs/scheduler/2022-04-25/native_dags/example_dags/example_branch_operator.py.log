@@ -1,0 +1,7 @@
+[2022-04-24 21:44:11,361] {processor.py:163} INFO - Started process (PID=31447) to work on /home/yoga/airflow_example/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-04-24 21:44:11,363] {processor.py:642} INFO - Processing file /home/yoga/airflow_example/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2022-04-24 21:44:11,363] {logging_mixin.py:109} INFO - [2022-04-24 21:44:11,363] {dagbag.py:500} INFO - Filling up the DagBag from /home/yoga/airflow_example/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-04-24 21:44:11,382] {processor.py:652} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/yoga/airflow_example/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2022-04-24 21:44:11,400] {logging_mixin.py:109} INFO - [2022-04-24 21:44:11,399] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-24 21:44:11,418] {logging_mixin.py:109} INFO - [2022-04-24 21:44:11,418] {dag.py:2937} INFO - Setting next_dagrun for example_branch_operator to 2022-04-24 00:00:00+00:00
+[2022-04-24 21:44:11,430] {processor.py:171} INFO - Processing /home/yoga/airflow_example/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.073 seconds
